@@ -7,7 +7,7 @@ function Footer() {
     <div className="footer">
       <p>
         © {year} - Made with ❤️ by{" "}
-        <a href="https://twitter.com/Trikerl">Gaurav</a>
+        <a href="https://www.linkedin.com/in/gaurav369/">Gaurav</a>
       </p>
     </div>
   );

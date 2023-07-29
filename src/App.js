@@ -43,7 +43,7 @@ function App() {
         <div className="Github-container">
           <a
             style={{ textDecoration: "none" }}
-            href="https://github.com/Trikcode"
+            href="https://github.com/gkn369"
           >
             <button className="github"> Github</button>
           </a>
